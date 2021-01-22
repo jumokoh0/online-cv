@@ -16,15 +16,12 @@ sidebar:
     phone: 010-6725-2227
     github: jumokoh0
 
-career-profile:
-    title: Career Profile
+Introduce:
+    title: Introduce
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My goal is to design and manufacture robots 
+      that I thought of when I was a child and 
+      that will come to mind in the future.
 education:
     - degree: Hanyang University - Department of Mechanical Convergence Engineering
       university: Hanyang University
