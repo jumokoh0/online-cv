@@ -61,14 +61,16 @@ Manufacturing parts using a 3D printer.
  Communication between controller and robot is connected using Bluetooth."
 
       - title: Haptic gloves
-        link: "#"
+       # link: "#"
         tagline: "Finger movement is controlled through a small servo motor and mechanical structure.
 Gear and mechanical structure design using 3D printer.
 Controlled using Arduino and motor driver."
 
       - title: 1-D ball balancing device
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+       # link: "#"
+        tagline: "The distance is measured using an ultrasonic sensor and the distance is adjusted using a servo motor.
+Sensor noise is reduced by using a filter.
+Control the position of the ball through PID control."
 
       - title: Delta
         link: "#"
