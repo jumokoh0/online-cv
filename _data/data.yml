@@ -60,11 +60,13 @@ projects:
 Manufacturing parts using a 3D printer.
  Communication between controller and robot is connected using Bluetooth."
 
-      - title: Tempo
+      - title: Haptic gloves
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Finger movement is controlled through a small servo motor and mechanical structure.
+Gear and mechanical structure design using 3D printer.
+Controlled using Arduino and motor driver."
 
-      - title: Atom
+      - title: 1-D ball balancing device
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
