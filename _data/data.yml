@@ -54,9 +54,11 @@ projects:
        # link: "#"
         tagline: "Design and manufacture 8*8 dot matrix LED using LED and transistor and implement snake game using atmega128."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: spider robot with four legs
+       # link: "#"
+        tagline: "Servo motor is controlled using Arduino.
+Manufacturing parts using a 3D printer.
+ Communication between controller and robot is connected using Bluetooth."
 
       - title: Tempo
         link: "#"
