@@ -51,7 +51,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: snake game with 8*8 dot matrix LED
-       # link: "#"
+        link: "https://github.com/jumokoh0/snake-game-with-8-8-dot-matrix-LED"
         tagline: "Design and manufacture 8*8 dot matrix LED using LED and transistor and implement snake game using atmega128."
 
       - title: spider robot with four legs
