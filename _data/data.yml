@@ -53,7 +53,7 @@ projects:
         tagline: "Design and manufacture 8*8 dot matrix LED using LED and transistor and implement snake game using atmega128."
 
       - title: spider robot with four legs
-       # link: "#"
+        link: "https://github.com/jumokoh0/spider-robot-with-four-legs"
         tagline: "Servo motor is controlled using Arduino.
 Manufacturing parts using a 3D printer.
  Communication between controller and robot is connected using Bluetooth."
