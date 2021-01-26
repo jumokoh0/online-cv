@@ -65,7 +65,7 @@ Gear and mechanical structure design using 3D printer.
 Controlled using Arduino and motor driver."
 
       - title: 1-D ball balancing device
-       # link: "#"
+        link: "https://github.com/jumokoh0/1-D-ball-balancing-device"
         tagline: "The distance is measured using an ultrasonic sensor and the distance is adjusted using a servo motor.
 Sensor noise is reduced by using a filter.
 Control the position of the ball through PID control."
