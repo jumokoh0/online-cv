@@ -59,7 +59,7 @@ Manufacturing parts using a 3D printer.
  Communication between controller and robot is connected using Bluetooth."
 
       - title: Haptic gloves
-       # link: "#"
+        link: "https://github.com/jumokoh0/Haptic-gloves"
         tagline: "Finger movement is controlled through a small servo motor and mechanical structure.
 Gear and mechanical structure design using 3D printer.
 Controlled using Arduino and motor driver."
