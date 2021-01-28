@@ -17,11 +17,10 @@ sidebar:
     github: jumokoh0
 
 publications:
-    title: Interests
+    title: ABSTRACT
     intro: |
-      My goal is to design and manufacture robots 
-        that I thought of when I was a child and 
-        that will come to mind in the future.
+      -My goal is to design, build and control the robots I imagined.
+      -So I studied 3D modeling and 3D printer, and now I started studying Jetson Nano.
 
 education:
     - degree: Hanyang University - Department of Mechanical Convergence Engineering
