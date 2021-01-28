@@ -16,12 +16,13 @@ sidebar:
     phone: 010-6725-2227
     github: jumokoh0
 
-interests:
-    - title: interests
-      summary: |
-        My goal is to design and manufacture robots 
+publications:
+    title: Interests
+    intro: |
+      My goal is to design and manufacture robots 
         that I thought of when I was a child and 
         that will come to mind in the future.
+
 education:
     - degree: Hanyang University - Department of Mechanical Convergence Engineering
       university: Hanyang University
